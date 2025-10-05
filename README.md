@@ -1,16 +1,19 @@
-## Hi there 👋
+### 📎 submission rules
 
-<!--
-**boardofshame/boardofshame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> you **can request screenshots!**  
+> please make sure they’re actually problematic before submitting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**rules before submitting:**
+- keep reports relevant to pony town behavior only  
+- do not submit out of context screenshots or private disputes  
+- avoid using this for personal drama  
+- provide clear visual proof whenever possible  
+- do not harass or contact listed individuals directly  
+
+---
+
+**to submit other problematic behavior:**  
+→ use the **forms link** provided — this section is for documentation only.
+https://forms.gle/ebZaQSY8ZVKD6ZUs8
